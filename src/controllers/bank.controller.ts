@@ -1,3 +1,4 @@
+import { Router } from "express";
 import { Request, Response } from "express";
 import Bank from "../models/bank.model";
 
